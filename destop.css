@@ -1,0 +1,158 @@
+
+
+/* For desktop: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+/*navmenu start*/
+
+.logo img{
+ text-align: left;
+
+
+}
+.name{
+    text-align: right;
+    font-size: 20px;
+}
+
+
+.navbar{
+flex-direction: row;
+justify-content: flex-end;
+
+
+
+}
+
+.navbar a{
+padding: 5px 10px;
+background-color: transparent;
+
+
+
+
+}
+/*navmenu ends*/
+
+
+
+/*profile design stars*/
+
+.profile .upimg{
+    
+    right: 100px;
+    width: 120px;
+    transition:width 2s transform 2s;
+    
+   
+   
+   }
+   
+   .profile .upimg:hover{
+   width: 140px;
+   
+   }
+   
+
+   .profile .doimg{
+    
+    bottom: 20px;
+    width: 120px;
+    transition:width 2s transform 2s;
+    
+   
+   
+   }
+   
+   .profile .doimg:hover{
+   width: 140px;
+   
+   }
+   
+
+.desc h1{
+ color: aqua;
+ font-family: small-caps; 
+
+
+
+}
+
+.desc p{
+color:green;
+font-family:math;
+
+}
+/*profile degign ends*/
+
+
+
+/*about desige strats*/
+
+.fb{
+    color: brown;
+}
+
+.btn22{
+    margin-right: 590px;
+    border-radius: 20%;
+
+    
+}
+
+.about{
+background-color: rgba(0, 183, 255, 0.692);
+color: rgb(225, 0, 255);
+}
+
+.email11{
+ color: brown;
+
+}
+/*about ends*/
+
+
+/*contact links design*/
+.conlink{
+position: relative;
+
+}
+
+.media{
+ position: absolute;
+ margin-top: 200px;
+ left: 50%;
+ top: 50%;
+ transform: translate(-50%,-50%);
+
+
+
+
+
+
+}
+
+/*footer-------------*/
+.foot-menu{
+  margin-top: 12px;
+
+
+
+}
+.foot-menu a{
+display: inline;
+margin: 5px;
+
+
+}
